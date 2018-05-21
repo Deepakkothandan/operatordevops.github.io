@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![OperatorDevOps Logo](/images/logo.png)
+![OperatorDevOps Logo](/assets/logo.png)
 
 Hello there, my name is Valter Silva!
 
